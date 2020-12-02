@@ -1,0 +1,4 @@
+#!/bin/bash
+
+
+grep -i cron /home/alex/gitScripts/syslog > /home/alex/gitScripts/outLog
